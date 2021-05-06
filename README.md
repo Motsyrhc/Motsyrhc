@@ -1,6 +1,8 @@
 ## Hey, my name is Motsyrhc
 -I'm a coder with no variety. (see my Github Stats below)
+
 -Right now I'm trying to change that with JavaScript
+
   - 🔭 I’m currently working on discord.py.
   - 🌱 I’m currently learning JavaScript.
   - 📫 How to reach me: Motsyrhc#2597 on Discord
