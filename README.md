@@ -17,4 +17,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Motsyrhc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Motsyrhc's GitHub Stats" />
 </a>
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=r2si1qa7hb3ha9nnkdcl0xvcc&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=r2si1qa7hb3ha9nnkdcl0xvcc&cover_image=true&theme=default)]]
+
 **also master > main**
