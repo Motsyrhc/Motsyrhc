@@ -3,9 +3,9 @@
 
 -Right now I'm trying to change that with JavaScript
 
-  - 🔭 I’m currently working on discord.py.
+  - 🔭 I’m currently working on discord.py/ HTML.
   - 🌱 I’m currently learning JavaScript.
-  - 📫 How to reach me: Motsyrhc#2597 on Discord
+  - 📫 How to reach me: flido#0001 on Discord
   - 😄 Pronouns: he/him
 
 ## &#x1f4c8; GitHub Stats
