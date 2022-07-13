@@ -1,11 +1,8 @@
 ## Hey, my name is flido
--I'm a coder with no variety. (see my Github Stats below)
 
--Right now I'm trying to change that with JavaScript
-
-  - 🔭 I’m currently working on discord.py/ HTML.
-  - 🌱 I’m currently learning JavaScript.
-  - 📫 How to reach me: flido#0001 on Discord
+  - 🔭 I’m currently working on low-level stuff.
+  - 🌱 I’m currently learning C++ and Rust.
+  - 📫 How to reach me: flido#2858 on Discord
   - 😄 Pronouns: he/him
 
 ## &#x1f4c8; GitHub Stats
@@ -18,5 +15,3 @@
 </a>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r2si1qa7hb3ha9nnkdcl0xvcc&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=r2si1qa7hb3ha9nnkdcl0xvcc&redirect=true)
-
-**also master > main**
